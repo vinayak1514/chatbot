@@ -44,7 +44,9 @@ modules use
 ======================
 - mysql-connector
 - "fastapi[all]"
-for install these model follow these steps
+
+- for install these model follow these steps
+
 pip install mysql-connector
 pip install "fastapi[all]"
 
