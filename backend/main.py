@@ -5,7 +5,6 @@ import db_helper
 import generic_helper
 
 
-
 app = FastAPI()
 
 
