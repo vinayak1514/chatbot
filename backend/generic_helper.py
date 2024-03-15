@@ -6,7 +6,6 @@ def get_str_from_food_dict(food_dict: dict):
     return result
 
 
-   
 def extract_session_id(session_str: str):
     match = re.search(r"/sessions/(.*?)/contexts/", session_str)
     if match:
